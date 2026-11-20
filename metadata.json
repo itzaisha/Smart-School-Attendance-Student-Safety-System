@@ -1,0 +1,6 @@
+{
+  "name": "Smart School Attendance & Student Safety System",
+  "description": "A complete school attendance, QR check-in, guardian verification, and student pickup safety management system.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
